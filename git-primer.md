@@ -1,5 +1,5 @@
-Git and OpenXPK ... a short primer for people new to git
-========================================================
+Git and OpenXPKI ... a short primer for people new to git
+=========================================================
 
 Introduction
 ------------
@@ -85,6 +85,9 @@ First, you need to create your own repository on GitHub.
 
 - Login to GitHub. 
 - Go to https://github.com/openxpki/openxpki and click on "Fork" on the upper right hand side. This will create your own, public repository based on the official one. Click on "Fork to <your username>". 
+- Go to https://github.com/openxpki/openxpki and click on "Fork" on the upper right hand side. This will create your own, public repository based on the official one. Click on 
+
+	'Fork to <your username>'. 
 
 Next, you need your own local copy of that repository.
 
